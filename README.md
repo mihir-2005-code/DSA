@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mihir-2005-code/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mihir-2005-code/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mihir-2005-code/DSA/tree/master/0020-valid-parentheses) |
 | [1154-day-of-the-year](https://github.com/mihir-2005-code/DSA/tree/master/1154-day-of-the-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mihir-2005-code/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
