@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mihir-2005-code/DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/mihir-2005-code/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/mihir-2005-code/DSA/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mihir-2005-code/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mihir-2005-code/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mihir-2005-code/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
