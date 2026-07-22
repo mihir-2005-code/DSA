@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mihir-2005-code/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mihir-2005-code/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/mihir-2005-code/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mihir-2005-code/DSA/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mihir-2005-code/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mihir-2005-code/DSA/tree/master/0503-next-greater-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mihir-2005-code/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Design
 |  |
@@ -85,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mihir-2005-code/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/mihir-2005-code/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
