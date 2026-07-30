@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mihir-2005-code/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/mihir-2005-code/DSA/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/mihir-2005-code/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mihir-2005-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mihir-2005-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/mihir-2005-code/DSA/tree/master/0496-next-greater-element-i) |
@@ -129,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mihir-2005-code/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mihir-2005-code/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
