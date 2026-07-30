@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mihir-2005-code/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/mihir-2005-code/DSA/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/mihir-2005-code/DSA/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/mihir-2005-code/DSA/tree/master/1154-day-of-the-year) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mihir-2005-code/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/mihir-2005-code/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mihir-2005-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/mihir-2005-code/DSA/tree/master/0415-add-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mihir-2005-code/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
