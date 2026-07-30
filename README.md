@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mihir-2005-code/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mihir-2005-code/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/mihir-2005-code/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mihir-2005-code/DSA/tree/master/0061-rotate-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mihir-2005-code/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/mihir-2005-code/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/mihir-2005-code/DSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/mihir-2005-code/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mihir-2005-code/DSA/tree/master/0088-merge-sorted-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mihir-2005-code/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mihir-2005-code/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mihir-2005-code/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
