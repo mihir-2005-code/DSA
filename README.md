@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mihir-2005-code/DSA/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/mihir-2005-code/DSA/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/mihir-2005-code/DSA/tree/master/1154-day-of-the-year) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mihir-2005-code/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mihir-2005-code/DSA/tree/master/0020-valid-parentheses) |
+| [0415-add-strings](https://github.com/mihir-2005-code/DSA/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/mihir-2005-code/DSA/tree/master/1154-day-of-the-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mihir-2005-code/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mihir-2005-code/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/mihir-2005-code/DSA/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
