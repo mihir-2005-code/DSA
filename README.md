@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mihir-2005-code/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mihir-2005-code/DSA/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/mihir-2005-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/mihir-2005-code/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mihir-2005-code/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mihir-2005-code/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -135,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mihir-2005-code/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mihir-2005-code/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/mihir-2005-code/DSA/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mihir-2005-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mihir-2005-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/mihir-2005-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
