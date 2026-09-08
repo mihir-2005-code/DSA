@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mihir-2005-code/DSA/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mihir-2005-code/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0415-add-strings](https://github.com/mihir-2005-code/DSA/tree/master/0415-add-strings) |
+| [0824-goat-latin](https://github.com/mihir-2005-code/DSA/tree/master/0824-goat-latin) |
 | [1154-day-of-the-year](https://github.com/mihir-2005-code/DSA/tree/master/1154-day-of-the-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mihir-2005-code/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
