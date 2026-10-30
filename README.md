@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mihir-2005-code/DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/mihir-2005-code/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/mihir-2005-code/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mihir-2005-code/DSA/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/mihir-2005-code/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mihir-2005-code/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Design
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/mihir-2005-code/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mihir-2005-code/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mihir-2005-code/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/mihir-2005-code/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mihir-2005-code/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/mihir-2005-code/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/mihir-2005-code/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mihir-2005-code/DSA/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -273,4 +276,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/mihir-2005-code/DSA/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/mihir-2005-code/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/mihir-2005-code/DSA/tree/master/1020-number-of-enclaves) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/mihir-2005-code/DSA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
